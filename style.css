@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    background-color: #007bff;
+  }
+  
+  .navbar-brand {
+    color: white !important;
+  }
+  
+  h1 {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  #result-container {
+    background-color: #d4edda;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  #result {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+  }
+  
+  #recommendation {
+    font-size: 1rem;
+    font-style: italic;
+    color: #6c757d;
+  }
+  
